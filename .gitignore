@@ -1,0 +1,23 @@
+# Archivos de compilación
+target/
+out/
+bin/
+
+# Configuración del IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Archivos generados por Maven
+.mvn/
+.settings/
+.classpath
+.project
